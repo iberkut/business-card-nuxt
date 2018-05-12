@@ -16,17 +16,17 @@
     "url": "https://github.com/yberkut/business-card-nuxt.git"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
-    "vuetify": "^0.17.3",
+    "nuxt": "^1.4.0",
+    "vuetify": "^1.0.17",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "cross-env": "^5.0.1",
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.15.0",
+    "cross-env": "^5.1.5",
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
     "eslint-loader": "^2.0.0",
-    "eslint-plugin-vue": "^4.0.0",
+    "eslint-plugin-vue": "^4.5.0",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1"
+    "stylus-loader": "^3.0.2"
   }
 }
