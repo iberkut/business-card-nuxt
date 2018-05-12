@@ -3,14 +3,11 @@ const imagesUrl = 'https://firebasestorage.googleapis.com/v0/b/static-872d1.apps
 const users = [
   {
     id: 1,
-    // firstName: 'Iaroslav',
-    firstName: 'First',
-    // lastName: 'Berkut',
-    lastName: 'Lats',
-    // description: 'Consultant, Frontend Guy and Your Friend',
-    description: 'Some description text should be here',
-    avatarSmall: `${imagesUrl}profile_mob%402x.png?alt=media&token=545e1100-7d1b-4366-97c1-94ca63f9b336-fake`,
-    avatarBig: `${imagesUrl}profile%402x.png?alt=media&token=8d874194-0859-47c9-afff-8e7bdfb877e8-fake`,
+    firstName: 'Iaroslav',
+    lastName: 'Berkut',
+    description: 'Consultant, Frontend Guy and Your Friend',
+    avatarSmall: `${imagesUrl}profile_mob%402x.png?alt=media&token=545e1100-7d1b-4366-97c1-94ca63f9b336`,
+    avatarBig: `${imagesUrl}profile%402x.png?alt=media&token=8d874194-0859-47c9-afff-8e7bdfb877e8`,
     info: [
       { title: 'AGE', value: '34' },
       { title: 'EMAIL', value: 'iaroslav.berkut@gmail.com' },
